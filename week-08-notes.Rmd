@@ -1,0 +1,123 @@
+---
+title: "Week-07-Notes"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview Video
+
++ How analytics is changing marketing
+    
+    + Hit all the main topics of marketing and its intersection with business analytics
+    
++ Marketing has a specific goal: there are customers who have needs and wants, and there are the products and/or services that a business offers that have features and benefits. 
++ A marketers' job in general is to match the need and wants of the customers with the features and benefits or the good and services to the greatest extent possible. That is the goal.
+
++ 3 A's
+
+    1. 
+    2. 
+    3. 
+    
++ 5 C's
+
+    1. Customer
+    2. Company
+    3. Collaborators
+    4. Competition
+    5. Context
+    
++ 4 P's
++ Action Plan Decision
++ Action plan can only take place AFTER the 'Aspiration Decision' (mission statement; goal) has been established 
+
+    1. Product - money
+    2. Promotion (communication strategy) - money
+    3. Place (channels of distribution) - money
+        + Go to Market plan: 
+            1. generate demand for a product / service
+            2. fulfill demand by getting product to customer 
+            3. provide after-sales service
+            4. gather and transmit feedback from customer to manufacturer
+    4. Price - create revenues for the firm to be profitable
+    
++ 3 elements of action plan creates value for customers
+
+    1. product offered
+    2. communication to the customer about the product (promotion)
+    3. mechanisms to distribute the product to the customer (place)
+    
+
+
++ Aspiration Decision: 
+
+    + What the company hopes to achieve in the market
+    + what value the product will represent to what kind of customer
+        + what the firm hopes to achieve in the market
+    + Need STP
+    
++ STP: 
+
+    + Segmenting > Targeting > Positioning
+    + Segmenting - segment the market to identify possible groups to serve
+    + Targeting - target a specific group or groups to address
+    + Positioning - positioning in the mind of the selected customers (what should the customer think of the product offering, relative to other options?)
+    
++ Analysis --> Decisions --> Outcomes
+
++ 6 M's: 
+
+    Objective
+        1. Market
+        2. Mission
+    Tactics
+        3. Message
+        4. Media
+        5. Money
+    Results
+        6. Measurement
+    
+
+    
++ Start to think about analytics while watching videos
++ Absorb marketing stuff
++ Next week: focus on bringing analytics into marketing
+
+
++ To do's: reading, videos 
+
+    1. Survey the whole scene
+    2. Discuss Stage 1 of marketing strategy (4 C's)
+    3. Specific stage of marketing
+    4. Action stage
+
+
++ Deliverables: Scalene Works paper, Fishbowl discussion
+ 
+
+
+# "Framework for Marketing Strategy Formation" (Robert Dolan)
+
+
+Marketing Process: 
+
+1. Marketing strategy formation
+2. Marketing planning
+3. Programming, allocating, and budgeting
+4. Implementation
+5. Monitor and auditing
+6. Analysis and Research
+
+
+
+# Scalene Works Paper
