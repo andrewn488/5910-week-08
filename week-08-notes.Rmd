@@ -118,6 +118,242 @@ Marketing Process:
 5. Monitor and auditing
 6. Analysis and Research
 
+# Marketing Strategy (in general)
 
++ History
+
+    + industrial revolution : WWI <- Production Concept
+        + with an abundance of some product, people will buy it
+    + WWI : WWII <- selling concept
+        + sell it because it's a good product
+    + 1950s : Current <- Marketing concept
+        + make people want what you're selling
+        + create customers
+        
++ Customers have: 
+
+    + needs & wants
+    
++ Company's goods/services have:
+
+    + Features & benefits
+    
++ Marketers want to make these 2 circles to overlap (venn diagram)
+
+    + Goal of marketing: Push both circles together
+    + Change needs & wants of customers (selling / advertising)
+    + Change the features & benefits to fit customer demand 
+    + marketers work on both sides of this equation
+    
++ Marketing strategy is about the process of selecting customers, deciding on the competitive point of differentiation to present to them, and developing a plan for reaching those customers" Dolan, p. 5
+
++ Marketing Strategy (3 A's): 
+
+    1. Analysis
+        + What will the marketing strategy be that differentiates our proudcts from all other products?
+        + 5 C's
+            1. Customer
+            2. Company
+            3. Collaborators
+            4. Competition
+            5. Context
+    2. Aspiration
+        + What value will the product represent to what kind of customer? i.e., what the company hopes to achieve in the market
+        + STP process:
+            1. Segmenting
+            2. Targeting
+            3. Positioning
+    3. Action
+        + How do we execute the marketing strategy? (we must ACT on it!)
+        + 4 P's
+            1. Product
+            2. Promotion
+            3. Place
+            4. Price
+
+
+# Marketing Strategy: Analysis Phase
+
++ Must have a strategy to reach to goal
++ Analysis: What will the marketing strategy be that *differentiates* our products from all other products?
+
+    1. Customer (**MOST** important)
+        + DMU - Decision Making Unit
+        + Focus on who's actually buying the product
+            + Customer rather than the consumer - who0 makes the decision to purchase the product
+        + most companies don't compete on price
+            + Walmart, Sam's, Costco, etc. actually do
+            + But most companies don't compete strictly on price
+
+        + DMP - Decision Making Process
+            + what due dilligence do potential customers go through? 
+                + Read reviews
+                + Compare price with similar products
+                + watch un-boxing videos
+
+    2. Company
+        + Ability to assess whether your company is able to offer the goods/services you are considering *well*
+        + What's your business' *core competency*?
+        + Is your mission statement always being fulfilled by the decisions you make?
+        
+    3. Collaborators
+        + Gaps that need filled after understanding company 'core competencies'
+        + Any business will need to collaborate with other companies
+    
+    4. Competition
+        + In order to understand how your good or services are different, you must have a robust understanding of your competitors
+        + If you can replicate your competition's maketing strategy, you know how they will compete with you
+        + Movie theater could be a competitor if they're taking people away from Peloton
+    
+    5. Context (also important, but quite nebulous)
+        + Analytics helps the least here
+        + Context is created by but not limited to: technology, culture, cultural norms, laws/regulations, politics, tax policy, etc
+        + Regulation and laws are changed on businesses all the time
+    
++ In customer analysis, one tries to understand how potential customers make a purchase decision in a product category
++ B2B vs. B2C 
+
+
+# Marketing Strategy: Aspiration Phase
+
++ Continue getting the circles to overlap into that venn diagram via a strategy!
++ Aspiration aka **HOPE**: What value will the product represent to what kind of customer? i.e., what the company hopes to achieve in the market. What value does it have and to whom values it? Marketing the same thing to everyone
+
+    1. Segmenting: break up the mass market into submarkets of customers with common needs
+        + Submarkets must have meaningful coherence
+            + Clusters of customers with common needs
+        + Perhaps design different goods and services (features, etc) 
+        + Not all messages resonate with the same group of customers
+        + *That* vs. *How*
+            + "that should not be rocket science" 
+            + "how does segmentation happen" 
+        + Demographic segmentation variables: things that create common needs
+            + Affiliation or Occupation
+                + Veteran / Democrat / Christian / Teacher
+            + behavior or interests
+                + homeowner / snowboarder / foodie / dog owner
+            + segment the segment to find new categories
+        + micro-targeting - targeting to individuals rather than a segment
+    
+    2. Targeting: how to target the segments and should the segments be targeted?
+        + how much spending power 
+        + how easy / expensive will it be to reach the customers we're targeting?
+        + how much competition will we encounter?
+        + Forecasting growth and decline based on segments to target?
+        
+    3. Positioning: enables the company to solve the *marketing mix problem*
+        + working out the technical details of the positioning strategy
+    
+
+# Marketing Strategy: Action Phase
+
++ Positioning statement is intended to get the whole organization aligned regarding the **aspiration** decision
++ The marketing mix (**action analysis** - product, price, place, and promotion - is essntially the working out of the tactical details of the positioning strategy)
++ Positioning Statement:
+
+    1. Target customer, as defined by the segmentation variables
+        + customers
+    2. Wants of the customer
+        + value to customer
+    3. Product type and category, as seen by the customer
+        + good or service
+    4. Key benefit to be provided to the target customer
+        + feelings and how you feel and demonstrates how others perceive you
+        
++ Action Analysis: execution of the earlier steps
+
+    1. Product
+        + product offering - all features wrapped into one offering
+            + core function is not what makes the sale (thermostat of google nest)
+            + product offering that differntiates yourself from other products
+    2. Price
+        1. Value of the product to the customer
+        2. Opportunities to vary price across customers
+        3. Customer's price sensitivity
+        + COGS - Cost of Goods Sold
+            + Firm incentive to sell
+        + PV (Perceived Value) - what buyers perceive your product to be worth. Consumer incentive to purchase
+        + TEV (Total Economic Value) - the value that the customer actually receives from your product
+        + COGS > Price > PV > TEV
+        + Price customization
+            + price discrimination / price gauging on different people
+        + Price sensitivity
+            + Rules that determine price point for you
+            + having options or not 
+    3. Promotion
+        + how organizations communicate with potential customers about product positioning
+        Level 1. Create product awareness
+        Level 2. Impart knowledge about the product's features
+        Level 3. Create a level of interest in a trial purchase
+        Level 4. Keeping the customer <- **SUSTAINABILITY**
+    4. Place
+        + where and how an organization decides to go to market
+        + heaps of options onw the place to do business
+
++ Customers have needs & wants
++ Products have features and benefits
++ Marketing is all about merging these two circles together to make the venn diagram!
 
 # Scalene Works Paper
+
++ Analytics
+    
+    + Do some light regressions and see what the data tells you
+    + Nothing crazy. Linear Model is totally fine
+    + These datapoints were found to not influence the renege rate
+    + These datapoints were found to have a statistically significant influence on a candidate joining the company:
+    + <insert list of my fav variables with *** and **> … Age, Gender, Notice Period (drives renege rate…all other variables are Positive+)
+    tistically significant at 10% level)
+    + The more relevant experience a candidate has, the more likely they are to renege their offer
+    + LOB's: Some lines of business (LOB's) seem to be more popular than others. People seem eager to join these specific jobs
+    	+ LOB…*
+    + Offered band…: Offered Band E1, E2, and E3 show higher probability of candidate joining and not reneging their offer
+    + Locations: None of the locations really have an effect on the renege rate
+    + Age: the older people get, the more likely they are to renege their offers
+    + Interesting: renege rate is higher in males
+
++ Manager
+
+    + If we were to develop an algorithm to predict the candidates that renege, what data would feed it?
+    + What data would we use?
+        + Is it ethical to use this data?
+    + If we're already collecting this data, have we communicated this surveillance to our employees?
+    + Have we provided the opportunity for employees to opt-out of the surveillance?
+    + **But they're not our employees. This data is surveilling candidates**
+    + **Scalene Works is still obligated to operate ethically on the collection of this data**
+		
+Essay:
+The story I'm telling: 
+	Manager side of the brain: I will answer all these questions in my 3 page write up. I will pull in a few readings from previous weeks to show that I've been reading the material and am understanding the content. I will assume the audience is Colaner, who is familiar with the prompt. I throw in a few points about ethics and value rationalization.
+	Analyst side of the brain: I will discuss my findings from my EDA. I will avoid the use of jargon because I am assuming the audience is Colaner who doesn't know how to speak Statistics. I suppose I'm writing this for my supervisor at work who  
+
+1. (Analyst) What are the key drivers that influence the candidate joining or not joining the company?
+
+    1. Key drivers for reasons why joined:
+        a. The key drivers that influence a candidate to join a company without renegeing at the last minute that Scalene Works is recruiting new-hires for are regarding a number of factors. In this essay I will be focusing on Age, …, <insert list here>.  **These are all variables that drive Joined rate up**
+    2. Key drivers for reasons why not joined
+        a. **These are all variables that drive Not Joined rate up (effect on likelihood to renege)**
+	
+2. (Analyst) What rules can be used to predict the renege rate?
+	
+    1. Create a list of things to look out for
+
+3. (Analyst/Manager) Can a predictive algorithm be devised to calculate the probability of joining (and not joining) the company after accepting the offer?
+    
+    1. Yes an algorithm could be built. These are the key data inputs that you would want to be tracking for. But, we must first reflect on if this is would be an ethical practice or not. We certainly have the means to develop this algorithm, but is it the right thing to do? <- ethics discussion!!
+    2. Data points would be all the listed variables above. 
+    3. Throw in some points about corporate surveillance here
+    4. If Scalene Works wants to win the respect of their employees, their leadership should put into practice the "democratic" style of leadership, and poll their staff on if they should build this type of technology. This would give the employees a chance to fully understand what they are building and have the opportunity to opt-out of the project. This would build immense trust between the employees and leadership of Scalene Works
+
+4. Given what we learned in Weeks 1-6, are there any best practices for management that ScaleneWorks should be considering in this case?
+    
+    1. This is fulfilled by referencing previous readings and the current reading
+        a. DEMOCRATIC LEADERSHIP vote for ETHICS (building corporate surveillance) to build TRUST with employees
+		
+5. Are there any possible legal and ethical issues that could arise through the design and implementation of this algorithm?
+	
+    1. Employees need to know what they're designing
+    2. Candidates need to know they're being surveilled 
+    3. Scalene_Works leadership can use this as an opportunity to gain trust with their employees
+    4. Ethics - there should be a study on how/if this algorithm could have coded bias to discriminate any protected class
+        a. If predictions are being made about the candidate's likelihood of reneging their offer, the company could start discriminating who they extend job offers to. If the candidate's likelihood to renege is high, the company may opt to not extend an offer. For example, this candidate could be discriminated on for being a male, female young, or old. Plus, any company that intends to adopt this algorithm into their hiring process will need to check if they should use it or not. The ethics of developing and deploying algorithms like these have ripple effects to players other than just Scalene Works. 
